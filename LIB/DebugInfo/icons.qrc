@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Well.png</file>
+        <file>delete.png</file>
+        <file>info.png</file>
+    </qresource>
+</RCC>
